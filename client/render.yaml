@@ -2,7 +2,6 @@ version: 1
 buildCommand: |
   cd client
   npm install --save @fortawesome/fontawesome-svg-core
-  cd ..
   npm install
   npm run build
 startCommand: |
