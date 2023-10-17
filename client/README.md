@@ -1,5 +1,8 @@
 # Mountain Momentum React Application
 
+# Live link
+https://mountainmomentum.onrender.com/
+https://github.com/Griffin-Ndede/Back-end_MountainMomentum
 
 Mountain Momentum is a React-based web application designed for hiking enthusiasts. This README provides an in-depth guide to the project, its components, installation, usage, and additional information.
 
